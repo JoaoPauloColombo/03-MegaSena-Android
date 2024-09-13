@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appTitulo">MEGA SENA</string>
+    <string name="appResultado">----</string>
+    <string name="btnSet">Jogar</string>
+    <string name="btnReset">Reiniciar</string>
+</resources>
